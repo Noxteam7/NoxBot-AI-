@@ -1,0 +1,35 @@
+{
+  "name": "NoxBot-AI",
+  "version": "2.0.0",
+  "description": "WhatsApp bot developed by NoxTeam7",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["whatsapp-bot", "noxbot-ai", "noxteam"],
+  "author": "NoxTeam7 (https://github.com/Noxteam7)",
+  "license": "MIT",
+  "homepage": "https://github.com/Noxteam7/NoxBot-AI-.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noxteam7/NoxBot-AI-.git"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "sharp": "https://github.com/Noxteam7/sharp-tmx/tarball/main",
+    "cheerio": "1.0.0-rc.12",
+    "chokidar": "^5.0.0",
+    "file-type": "^18.0.0",
+    "form-data": "^4.0.5",
+    "qs": "*",
+    "wa-sticker-formatter": "^4.3.2",
+    "pino": "^8.17.2"
+  },
+  "overrides": {
+    "sharp": "https://github.com/Noxteam7/sharp-tmx/tarball/main",
+    "*": {
+      "sharp": "https://github.com/deveni0/sharp-tmx/tarball/main"
+    }
+  }
+}
