@@ -1,7 +1,7 @@
 # NoxBot AI 🍷
 
 <p align="center">
-  <img src="https://h.top4top.io/m_3775btg780.mp4" alt="Nezuko AI Demo" width="600"/>
+  <img src="https://i.top4top.io/p_3774h3mct0.jpg" alt="Nezuko AI Demo" width="600"/>
 </p>
 
 <p align="center">
@@ -53,11 +53,11 @@
     <tr>
       <td align="center">
         <img src="https://l.top4top.io/p_3775natxr1.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Mix Qtler"/><br/>
-        <b>dev</b>
+        <b>Mix Qtler dev</b>
       </td>
       <td align="center">
         <img src="https://k.top4top.io/p_3775wqpij0.jpg" width="100" height="100" style="border-radius: 50%; object-fit: cover;" alt="Escanor"/><br/>
-        <b>dev</b>
+        <b>Escanor dev</b>
       </td>
     </tr>
   </table>
