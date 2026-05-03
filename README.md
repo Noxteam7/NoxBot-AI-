@@ -73,15 +73,15 @@
   </a>
   <br/>
   <a href="https://www.instagram.com/izana.xd1">
-    <img src="https://img.shields.io/badge/Instagram-3rab_top_devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="220"/>
+    <img src="https://img.shields.io/badge/Instagrame-NoxBot_devs-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="220"/>
   </a>
   <br/>
   <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-3rab_top_devs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="220"/>
+    <img src="https://img.shields.io/badge/YouTube-NoxBot_devs-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="220"/>
   </a>
   <br/>
   <a href="https://github.com/Noxteam7">
-    <img src="https://img.shields.io/badge/GitHub-mzml_gg-181717?style=for-the-badge&logo=github&logoColor=white" width="220"/>
+    <img src="https://img.shields.io/badge/GitHub-Noxteam7-181717?style=for-the-badge&logo=github&logoColor=white" width="220"/>
   </a>
 </p>
 
