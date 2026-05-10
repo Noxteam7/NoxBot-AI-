@@ -1,0 +1,32 @@
+{
+  "name": "NoxBot-AI",
+  "version": "2.0.0",
+  "description": "WhatsApp bot developed by NoxTeam7",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "qr": "node main.js qr",
+    "code": "node main.js code"
+  },
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
+    "@whiskeysockets/baileys": "github:Nox-team7/Escanor-baileys",
+    "awesome-phonenumber": "^7.2.0",
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0-rc.12",
+    "figlet": "^1.11.0",
+    "file-type": "^18.7.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "google-libphonenumber": "^3.2.33",
+    "jimp": "^1.6.1",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^3.3.2",
+    "os": "^0.1.2",
+    "pino": "^8.17.2",
+    "qs": "^6.11.2",
+    "syntax-error": "^1.4.0"
+  }
+}
